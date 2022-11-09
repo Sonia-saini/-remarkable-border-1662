@@ -1,0 +1,805 @@
+{
+  "products": { "skincare":[
+{
+    "id":1,
+    "category":"skincare",
+    "title":"Chantecaille Bio Lifting Mask+ 50ml",
+    "url":"https://static.thcdn.com/images/small/webp//productimg/original/13232876-3484931962051488.jpg",
+    "price":198,
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+}
+,{
+    "id":2,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/small/webp//productimg/original/12932548-2534984326440526.jpg",
+    "title":"SkinCeuticals Phyto Corrective Essence Mist 50ml",
+    "price":67,
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif"
+
+}
+,{
+    "id":3,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13835523-5024993391621196.jpg",
+    "title":"Elemis Dynamic Resurfacing Super-C Serum 30ml",
+    "price":139,
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+},
+{
+    "id":4,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13956540-1434996957844526.jpg",
+    "title":"PCA SKIN Resurfacing Serum 1 oz",
+    "price":99,
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/pcaskin.gif"
+},
+{
+    "id":5,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13920976-2644983786116838.jpg",
+    "title":"Glo Skin Beauty Dermstore Exclusive Bio-Renew EGF Cream and EGF Drops Duo",
+    "price":175,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/gloskinbeauty.gif"
+},{
+    "id":6,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11921605-1934931961112791.jpg",
+    "title":"Chantecaille Bio Lifting Serum+ 30ml",
+    "price":279,
+    "rating":3,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+}
+,
+{
+    "id":7,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13315092-2094974668098059.jpg",
+    "title":"Augustinus Bader The Cream 50ml",
+    "price":280,
+    "rating":3,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/augustinusbader.gif"
+},
+{
+    "id":8,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13926947-1774978328274825.jpg",
+    "title":"Exuviance Gentle Daily Exfoliating Pads 55ml",
+    "price":45,
+    "rating":3.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/exuviance.gif"
+},{
+    "id":9,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11054488-6294867924186974.jpg",
+    "title":"First Aid Beauty Ultra Repair Cream (6 oz.)",
+    "price":38,
+    "rating":2.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/firstaidbeauty.gif"
+},{
+    "id":10,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13926946-1924978328145078.jpg",
+    "title":"Neostrata PHA Renewal Pads 55ml",
+    "price":45,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neostrata.gif"
+},
+{
+    "id":11,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11333024-1544871545419615.jpg",
+    "title":"LightStim LightStim for Acne (1 kit)",
+    "price":169,
+    "rating":3,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/lightstim.gif"
+},
+{
+    "id":12,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11289609-1174892770940184.jpg",
+    "title":"SkinCeuticals C E Ferulic (1 fl. oz.)",
+    "price":169,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif"
+},
+{
+    "id":13,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11291543-1265002181700054.jpg",
+    "title":"Obagi Medical Professional-C Serum 20% (1 fl. oz.)",
+    "price":136,
+    "rating":3,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/obagimedical.gif"
+},
+{
+    "id":14,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11588281-8764882139037003.jpg",
+    "title":"Sunday Riley GOOD GENES All-In-One Lactic Acid Treatment (1.7oz. - $175 Value)",
+    "price":122,
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/sundayriley.gif"
+},{
+    "id":15,
+    "category":"skincare",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12664555-1704871739992403.jpg",
+    "title":"Neocutis LUMIÈRE® FIRM RICHE Extra Moisturizing Illuminating Tightening Eye Cream (0.5 fl. oz.)",
+    "price":118,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neocutis.gif"
+}
+    ]
+    ,
+    "toolsanddevices":[
+{
+    "id":16,
+    "category":"tools and devices",
+    "title":"NuFACE Mini+ Starter Kit (Various Colors)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13837544-2804976746712616.jpg",
+    "price": 245,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nuface.gif"
+},
+{
+    "id":17,
+    "category":"tools and devices",
+    "title":"NuFACE Dermstore Exclusive Trinity ELE Kit and Accessories Bundle ($520 Value)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13761887-1754965608525076.jpg",
+    "price": 449,
+    "rating":3,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nuface.gif"
+},
+{
+    "id":18,
+    "category":"tools and devices",
+    "title":"ELEMIS Body Detox Skin Brush (1 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/10437955-2124891241516529.jpg",
+    "price": 45,
+    "rating":3.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+},
+{
+    "id":19,
+    "category":"tools and devices",
+    "title":"Harry Josh Pro Tools Pro Makeup Wave Setting Clips (6 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902038-8134866432156213.jpg",
+    "price": 18,
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif"
+},
+{
+    "id":20,
+    "category":"tools and devices",
+    "title":"jane iredale Flocked Sponge Makeup Blender (1 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901205-1854866655479438.jpg",
+    "price": 8,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+},
+{
+    "id":21,
+    "category":"tools and devices",
+    "title":"Dermstore Collection Facial Scrubbing Mitt (1 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902996-5674871804745636.jpg",
+    "price": 6,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif"
+},
+{
+    "id":22,
+    "category":"tools and devices",
+    "title":"Harry Josh Pro Tools Magnesium Thermal Brush 1.7 inch 1 piece",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918939-1784869705298707.jpg",
+    "price": 55,
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif"
+},
+{
+    "id":23,
+    "category":"tools and devices",
+    "title":"Dermstore Collection Set of Two Ice Globes (1 pair)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902995-1984872045503433.jpg",
+    "price":18 ,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif"
+},
+{
+    "id":24,
+    "category":"tools and devices",
+    "title":"Nurse Jamie Instant UpLift (1 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901727-1044911666006498.jpg",
+    "price": 69,
+    "rating":2,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nursejamie.gif"
+},
+{
+    "id":25,
+    "category":"tools and devices",
+    "title":"Zutta LED Mask - Rosanna",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13928073-2125002136164800.jpg",
+    "price": 399,
+    "rating":1,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nursejamie.gif"
+},
+{
+    "id":26,
+    "category":"tools and devices",
+    "title":"DHC Silky Cotton (80 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11207490-1544866131146524.jpg",
+    "price": 6,
+    "rating":2,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dhc.gif"
+},
+{
+    "id":27,
+    "category":"tools and devices",
+    "title":"Dermstore Collection Days of the Week Reusable Cleansing Pads (7 count)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902999-2084871804909343.jpg",
+    "price": 9,
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif"
+},
+{
+    "id":28,
+    "category":"tools and devices",
+    "title":"ORA Electric Roller Replacement Needle Heads Set (3 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12085488-2074866373661988.jpg",
+    "price": 22,
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/beautyora.gif"
+},
+{
+    "id":29,
+    "category":"tools and devices",
+    "title":"jane iredale Pencil Sharpener (1 piece)",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288009-1904871816111295.jpg",
+    "price": 3,
+    "rating":3.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+},
+{
+    "id":30,
+    "category":"tools and devices",
+    "title":"Harry Josh Pro Tools Ultra Light Pro Dryer 3 piece",
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918920-2054866556682202.jpg",
+    "price": 349,
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif"
+}
+    ],
+    "moisturizers":[
+        {
+            "id":31,
+            "category":"moisturizers",
+            "title":"ELEMIS Pro-Collagen Marine Cream SPF 30 (1.6 fl. oz.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12328579-1684722259354674.jpg",
+            "price":132,
+            "rating":3,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+        },
+        {
+            "id":32,
+            "category":"moisturizers",
+            "title":"ELEMIS Pro-Collagen Oxygenating Night Cream (1.7 fl. oz.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/10366589-2964891241118780.jpg",
+            "price":165,
+            "rating":3,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+        },{
+            "id":33,
+            "category":"moisturizers",
+            "title":"ELEMIS Pro-Collagen Marine Cream for Men (1 fl. oz.)",
+            "url":"https://static.thcdn.com/images/large/webp/productimg/1600/1600/11151046-1604459954827207.jpg",
+            "price":56,
+            "rating":3.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+        },
+        {
+            "id":35,
+            "category":"moisturizers",
+            "title":"EltaMD UV Clear SPF46 Broad-Spectrum Duo (Worth $72)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12538013-4764765050522444.jpg",
+            "price":70,
+            "rating":2,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/eltamd.gif"
+        },
+        {
+            "id":34,
+            "category":"moisturizers",
+            "title":"SkinCeuticals Emollience (2 fl. oz.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11312847-1234892768495982.jpg",
+            "price":66,
+            "rating":3.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif"
+        },
+        {
+            "id":36,
+            "category":"moisturizers",
+            "title":"Medik8 Advanced Night Ceramide Cream 48g",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12810684-1104840720634844.jpg",
+            "price":74,
+            "rating":4,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/medik8.gif"
+        },
+        {
+            "id":37,
+            "category":"moisturizers",
+            "title":"TULA Skincare 247 Moisture Hydrating Day Night Cream (1.5 fl. oz.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915668-1774973380782840.jpg",
+            "price":52,
+            "rating":4,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/tulaskincare.gif"
+        },
+        {
+            "id":38,
+            "category":"moisturizers",
+            "title":"Obagi Medical Hydrate Luxe (1.7 oz.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288913-2454871572381206.jpg",
+            "price":74,
+            "rating":4.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/obagimedical.gif"
+        },
+        {
+            "id":39,
+            "category":"moisturizers",
+            "title":"Supergoop!® PLAY Antioxidant Body Mist SPF 50 with Vitamin C 6 fl. oz.",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901001-2174876994385429.jpg",
+            "price":21,
+            "rating":4,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/supergoop!.gif"
+        },
+        {
+            "id":40,
+            "category":"moisturizers",
+            "title":"Dr Dennis Gross Alpha Beta Daily Moisturiser 50ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13663076-9344964551570770.jpg",
+            "price":68,
+            "rating":5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/drdennisgross.gif"
+        },
+        {
+            "id":41,
+            "category":"moisturizers",
+            "title":"Sunday Riley JUNO Antioxidant + Superfood Face Oil (1.18 fl. oz.",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/10921277-1664897219982373.jpg",
+            "price":72,
+            "rating":3,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/sundayriley.gif"
+        },
+        {
+            "id":42,
+            "category":"moisturizers",
+            "title":"Dermalogica Intensive Moisture Balance (3.4 fl. oz.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12008802-1784918467377259.jpg",
+            "price":74,
+            "rating":2,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermalogica.gif"
+        },
+        {
+            "id":43,
+            "category":"moisturizers",
+            "title":"SkinMedica Award Winning System (3 piece - $639 Value)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12701672-1314870996192467.jpg",
+            "price":542,
+            "rating":2.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinmedica.gif"
+        },
+        {
+            "id":44,
+            "category":"moisturizers",
+            "title":"Revision Skincare® Restorative Night Cream 1 oz.",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902709-1504868371618332.jpg",
+            "price":78,
+            "rating":3.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revisionskincare.gif"
+        },
+        {
+            "id":45,
+            "category":"moisturizers",
+            "title":"Colorescience Sunforgettable Total Protection Face Shield Flex SPF 50 1.8 fl. oz. - Fair",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12956914-2104863698613843.jpg",
+            "price":45,
+            "rating":1.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/colorescience.gif"
+        }
+    ],
+    "haircare":[
+{
+    "id":46,
+    "category":"hair care",
+    "title":"Grow Gorgeous Volume Bodifying LeaveIn Serum 5 fl. oz.",
+    "price":10,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927421-1874860660914313.jpg",
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif"
+},
+{
+    "id":47,
+    "category":"hair care",
+    "title":"Grow Gorgeous Intense Hair Density Serum 60 ml.",
+    "price":50,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927426-2014713645552216.jpg",
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif"
+},
+{
+    "id":48,
+    "category":"hair care",
+    "title":"SEEN Magic Serum 1 FL oz",
+    "price":36,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13554653-1994928099528247.jpg",
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/seen.gif"
+},
+{
+    "id":49,
+    "category":"hair care",
+    "title":"Oribe Gold Lust Shampoo and Conditioner Liter Set (Worth $339.00)",
+    "price":295,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13950530-5714996682751306.jpg",
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+},
+{
+    "id":50,
+    "category":"hair care",
+    "title":"Grow Gorgeous Intense Kit (Density)",
+    "price":58,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12799765-5224912786695921.jpg",
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif"
+},
+{
+    "id":51,
+    "category":"hair care",
+    "title":"ghd Grand-Luxe Gift Set - Platinum+ Styler 1 Flat Iron and Helios Professional Hair Dryer With Vanity Case (Worth $598.00)",
+    "price":499,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13934558-1774985568711354.jpg",
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ghd.gif"
+},
+{
+    "id":52,
+    "category":"hair care",
+    "title":"Olaplex Hair Repair Treatment Holiday Kit (Worth $90.00)",
+    "price":62,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13903619-1444998250558359.jpg",
+    "rating":3.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+},
+{
+    "id":53,
+    "category":"hair care",
+    "title":"Christophe Robin Luscious Curl Ritual (Worth $77)",
+    "price":38.5,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12752678-8584894638466806.jpg",
+    "rating":2.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/christopherobin.gif"
+},
+{
+    "id":54,
+    "category":"hair care",
+    "title":"Oribe Style and Refresh Hair Set (Worth $96.00)",
+    "price":75,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13950527-2804996681680078.jpg",
+    "rating":1.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+},
+{
+    "id":55,
+    "category":"hair care",
+    "title":"Olaplex Ultimate Essentials Holiday Kit (Worth $33.00)",
+    "price":28,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13883317-8014988987514489.jpg",
+    "rating":5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+},
+{
+    "id":56,
+    "category":"hair care",
+    "title":"Oribe Gold Lust Collection Hair Set (Worth $139.00)",
+    "price":115,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13953451-1954996682986923.jpg",
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+},
+{
+    "id":57,
+    "category":"hair care",
+    "title":"ghd Gold Styler - 1 Flat Iron, Grand-Luxe Collection (Worth $269.00)",
+    "price":229,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13934555-2044985568107109.jpg",
+    "rating":4,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ghd.gif"
+},
+{
+    "id":58,
+    "category":"hair care",
+    "title":"Olaplex Bundle - No.0, No.3, No.7",
+    "price":90,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13457731-2014927768637931.jpg",
+    "rating":3,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+},
+{
+    "id":59,
+    "category":"hair care",
+    "title":"Olaplex Bond Maintenance Holiday Kit - Jumbo No.3, No.4, No.5 (Worth $137.00)",
+    "price":99,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13903618-6054979846869767.jpg",
+    "rating":2,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+
+},{
+    "id":60,
+    "category":"hair care",
+    "title":"Philip B Four Step Hair and Scalp Treatment Set (4 piece)",
+    "price":110,
+    "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11289219-1964875380604594.jpg",
+    "rating":4.5,
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/philipb.gif"
+}
+    ]
+    ,
+    "makeup":[
+     {
+        "id":61,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12104284-1694786786012092.jpg",
+        "title":"Perricone MD Instant Blur (0.35 oz.)",
+        "price":55,
+        "rating":3,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif"
+     }   ,
+     {
+        "id":62,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12104286-2034786788446706.jpg",
+        "title":"Perricone MD No Makeup Blush (0.3 fl. oz.)",
+        "price":35,
+        "rating":3.5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif"
+     }   ,
+     {
+        "id":63,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12188354-3114995191991549.jpg",
+        "title":"Perricone MD No Makeup Eyeshadow (0.3 fl. oz.)",
+        "price":35,
+        "rating":4,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif"
+
+     } ,
+     {
+        "id":64,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12635239-9704788637189782.jpg",
+        "title":"Chantecaille Just Skin Tinted Moisturizer Sunscreen Broad Spectrum SPF15 50g (Various Shades)",
+        "price":80,
+        "rating":4,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+     }     ,
+     {
+        "id":65,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13798705-1674956596912064.jpg",
+        "title":"jane iredale Glow Time Pro BB Cream 40ml (Various Shades)",
+        "price":52,
+        "rating":5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+     }   ,{
+        "id":66,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11370314-1304944342872775.jpg",
+        "title":"EltaMD UV Elements Tinted Broad-Spectrum SPF 44 (2 oz.)",
+        "price":38.50,
+        "rating":2,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/eltamd.gif"
+     }   ,{
+        "id":67,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11234111-3134931961042939.jpg",
+        "title":"Chantecaille Future Skin Oil-Free Foundation 30g",
+        "price":82,
+        "rating":2.5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+     }   ,{
+        "id":68,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12545113-2654897172828271.jpg",
+        "title":"Chantecaille Lip Tint Hydrating Balm (Various Shades)",
+        "price":34,
+        "rating":3,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+     }   ,{
+        "id":69,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13674838-2504939183735374.jpg",
+        "title":"jane iredale Pure Pressed Blush 3.7g (Various Shades)",
+        "price":32,
+        "rating":1.5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+     }   ,{
+        "id":70,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902688-1514869963703809.jpg",
+        "title":"ILIA Limitless Lash Mascara (Various Sizes)",
+        "price":13,
+        "rating":3,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ilia.gif"
+     }   ,{
+        "id":71,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11234292-5324896444642453.jpg",
+        "title":"Chantecaille Le Camouflage Stylo Concealer",
+        "price":56,
+        "rating":3.5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+     },{
+        "id":72,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/10877675-1204892801854575.jpg",
+        "title":"jane iredale Smooth Affair Brightening Face Primer (1.7 fl. oz.)",
+        "price":50,
+        "rating":4.5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+     },{
+        "id":73,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11370772-1364878265774365.jpg",
+        "title":"RevitaLash Advanced Eyelash Conditioner - 3 Month Supply (0.067 fl. oz.)",
+        "price":98,
+        "rating":3,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revitalash.gif"
+     },{
+        "id":74,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13312867-5774953412900584.jpg",
+        "title":"RÓEN Disco Eye (Worth $29.00)",
+        "price":28,
+        "rating":5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revitalash.gif"
+
+     },{
+        "id":75,
+        "category":"makeup",
+        "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11493615-1564871517358554.jpg",
+        "title":"jane iredale Just Kissed Lip and Cheek Stain (0.1 oz.)",
+        "price":32,
+        "rating":2.5,
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+     }
+    ],
+    "fragrance":[
+        {
+            "id":76,
+            "category":"fragrance",
+            "title":"NEST New York Holiday Reed Diffuser 5.9 fl. oz",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12691029-3674813757407983.jpg",
+            "price":58,
+            "rating":4,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+
+        },{
+            "id":77,
+            "category":"fragrance",
+            "title":"World of Chris Collins African Rooibos Eau de Parfum 50ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13803616-1444954936799040.jpg",
+            "price":175,
+            "rating":4,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+
+        },{
+            "id":85,
+            "category":"fragrance",
+            "title":"TRUDON II Eau de Parfum 100ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11667113-2834897170225306.jpg",
+            "price":240,
+            "rating":4.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/trudon.gif"
+        },{
+            "id":78,
+            "category":"fragrance",
+            "title":"GLOSS MODERNE Clean Luxury Beauty Oil Sans Parfum 15ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13900443-1054973180227191.jpg",
+            "price":29,
+            "rating":4.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/glossmoderne.gif"
+        },
+        {
+            "id":79,
+            "category":"fragrance",
+            "title":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12741210-4494985797445031.jpg",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12741210-4494985797445031.jpg",
+            "price":120,
+            "rating":3,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/hermetica.gif"
+        },{
+            "id":80,
+            "category":"fragrance",
+            "title":"TRUDON Medie Eau de Parfum 100ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12778529-1624832946156936.jpg",
+            "price":240,
+            "rating":3,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/trudon.gif"
+        },{
+            "id":81,
+            "category":"fragrance",
+            "title":"Glasshouse Fragrances Night Before Christmas & One Night in Rio Scent Scene Duo",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13051097-8144910945264757.jpg",
+            "price":45,
+            "rating":3.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/glasshousefragrances.gif"
+        },{
+            "id":82,
+            "category":"fragrance",
+            "title":"Sol de Janeiro Brazilian Crush Body Fragrance Mist (8.1 fl. oz.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12545077-6354891967728311.jpg",
+            "price":35,
+            "rating":3.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/soldejaneiro.gif"
+        },{
+            "id":83,
+            "category":"fragrance",
+            "title":"NEOM Sensuous Essential Oil Blend",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12455612-7254928010689700.jpg",
+            "price":13,
+            "rating":2,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neom.gif"
+        },{
+            "id":84,
+            "category":"fragrance",
+            "title":"kai Reed Diffuser (1 piece)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901665-3824896468202044.jpg",
+            "price":79,
+            "rating":2,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/kai.gif"
+        },{
+            "id":86,
+            "category":"fragrance",
+            "title":"Oribe Cote D'Azur Eau de Parfum Travel Size 10ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13257298-1144988163597126.jpg",
+            "price":34,
+            "rating":2,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+        },{
+            "id":87,
+            "category":"fragrance",
+            "title":"Oribe Desertland Candle 226.8g",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13798743-2044952866136634.jpg",
+            "price":78,
+            "rating":2.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+        },{
+            "id":88,
+            "category":"fragrance",
+            "title":"Oribe Cote D'Azur Eau de Parfum 75ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13257297-9715002685919792.jpg",
+            "price":125,
+            "rating":1,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+        },{
+            "id":89,
+            "category":"fragrance",
+            "title":"The Nue Co. Forest Lungs (50 ml.)",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13347876-2084898463080388.jpg",
+            "price":95,
+            "rating":4.5,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/thenueco.gif"
+        },{
+            "id":90,
+            "category":"fragrance",
+            "title":"Ellis Brooklyn Après Eau de Parfum 50ml",
+            "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13809370-1864957053960501.jpg",
+            "price":105,
+            "rating":3,
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ellisbrooklyn.gif"
+        }
+
+    ]}
+}
