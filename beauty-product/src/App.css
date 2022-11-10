@@ -36,3 +36,56 @@
     transform: rotate(360deg);
   }
 }
+.newproduct{
+  width: 90%;
+  display: grid;
+  margin:50px auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.skincare{
+  width: 90%;
+  display: grid;
+  margin:50px auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.tool{
+  width: 90%;
+  display: grid;
+  margin:50px auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.moisture
+{
+  width: 90%;
+  display: grid;
+  margin:50px auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.haircare
+{
+  width: 90%;
+  display: grid;
+  margin:50px auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.makeup
+{
+  width: 90%;
+  display: grid;
+  margin:50px auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+.fragrance
+{
+  width: 90%;
+  display: grid;
+  margin:50px auto;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
