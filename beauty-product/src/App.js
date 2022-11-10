@@ -1,6 +1,6 @@
 
 import Navbar from "./pages/navbar"
-import './App.css';
+import './App.css'
 import Allroutes from './routes/allroutes';
 
 
