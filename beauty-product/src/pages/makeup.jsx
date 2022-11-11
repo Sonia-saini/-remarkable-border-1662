@@ -20,7 +20,7 @@ export default function Makeup(){
             </div>
             <div className="makeup">
 {
-    data&&data.map((el)=><Product {...el}/>)
+    data&&data.map((el)=><Product props={el}/>)
 }</div>
             <Footer/>
         </div>

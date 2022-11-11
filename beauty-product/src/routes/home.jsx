@@ -1,10 +1,12 @@
 import Footer from "../pages/footer"
-import { Component, useState } from "react";
+import { Component, useContext, useState } from "react";
 import Slider from "react-slick";
-import {Button, Image,Text} from "@chakra-ui/react"
+import {Button, Image,Text,Stack,Skeleton,Alert,AlertDescription,AlertIcon,AlertTitle} from "@chakra-ui/react"
 import { Link } from "react-router-dom";
 import Single from "./single";
 import '../App.css';
+import { AppContext } from "../context/contexted";
+import Product from "../pages/product";
 
 export default class PauseOnHover extends Component {
     render() {
@@ -156,6 +158,8 @@ export default class PauseOnHover extends Component {
   }
 export  function Home(){
     const [data,setData]=useState();
+  const {searchdata,error,load,input}=useContext(AppContext)
+
     const Append=()=>{
 fetch(`http://localhost:8000/products`).then((res)=>
      res.json()
@@ -168,6 +172,32 @@ fetch(`http://localhost:8000/products`).then((res)=>
     return (
         
         <>
+    <div className="search">  {load?<Stack>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/> <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/> <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/> <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/> <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+  <Skeleton height='20px' width={"90%"}/>
+</Stack>:load==false&&error?<Alert status='error'>
+  <AlertIcon />
+  <AlertTitle>Something went wrong!</AlertTitle>
+  <AlertDescription>please try again after sometime.</AlertDescription>
+</Alert>:input!==""&&searchdata.length!==0?
+  searchdata.map((el)=><Single {...el}/>):input!==""?<Alert status='error'>
+  <AlertIcon />
+  <AlertTitle>Your searching product is not available!</AlertTitle>
+  <AlertDescription>You can search after sometime.</AlertDescription>
+</Alert>:<b><Text style={{alignContent:"center",fontSize:"30px",marginLeft:"300px",width:"600px"}}>FEEL MORE CONFIDENT</Text></b>
+}</div>  
         <PauseOnHover/>
         
         <div style={{display:"flex",marginTop:"40px",gap:"20px"}}>

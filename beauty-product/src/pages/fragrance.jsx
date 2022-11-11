@@ -20,7 +20,7 @@ export default function Fragrance(){
             </div>
             <div className="fragrance">
 {
-    data&&data.map((el)=><Product {...el}/>)
+    data&&data.map((el)=><Product props={el}/>)
 }</div>
             <Footer/>
         </div>
