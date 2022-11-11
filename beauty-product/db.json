@@ -8,6 +8,7 @@
     "price":198,
     "rating":4.5,
     "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+    ,"quantity":1
 }
 ,{
     "id":2,
@@ -17,7 +18,7 @@
     "price":67,
     "rating":4.5,
     "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif"
-
+    ,"quantity":1
 }
 ,{
     "id":3,
@@ -27,6 +28,7 @@
     "price":139,
     "rating":5,
     "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+    ,"quantity":1
 },
 {
     "id":4,
@@ -36,6 +38,7 @@
     "price":99,
     "rating":5,
     "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/pcaskin.gif"
+    ,"quantity":1
 },
 {
     "id":5,
@@ -45,6 +48,7 @@
     "price":175,
     "rating":4,
     "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/gloskinbeauty.gif"
+    ,"quantity":1
 },{
     "id":6,
     "category":"skincare",
@@ -53,6 +57,7 @@
     "price":279,
     "rating":3,
     "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+    ,"quantity":1
 }
 ,
 {
@@ -63,6 +68,7 @@
     "price":280,
     "rating":3,
     "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/augustinusbader.gif"
+    ,"quantity":1
 },
 {
     "id":8,
@@ -71,7 +77,7 @@
     "title":"Exuviance Gentle Daily Exfoliating Pads 55ml",
     "price":45,
     "rating":3.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/exuviance.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/exuviance.gif","quantity":1
 },{
     "id":9,
     "category":"skincare",
@@ -79,7 +85,7 @@
     "title":"First Aid Beauty Ultra Repair Cream (6 oz.)",
     "price":38,
     "rating":2.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/firstaidbeauty.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/firstaidbeauty.gif","quantity":1
 },{
     "id":10,
     "category":"skincare",
@@ -87,7 +93,7 @@
     "title":"Neostrata PHA Renewal Pads 55ml",
     "price":45,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neostrata.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neostrata.gif","quantity":1
 },
 {
     "id":11,
@@ -96,7 +102,7 @@
     "title":"LightStim LightStim for Acne (1 kit)",
     "price":169,
     "rating":3,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/lightstim.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/lightstim.gif","quantity":1
 },
 {
     "id":12,
@@ -105,7 +111,7 @@
     "title":"SkinCeuticals C E Ferulic (1 fl. oz.)",
     "price":169,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif","quantity":1
 },
 {
     "id":13,
@@ -114,7 +120,7 @@
     "title":"Obagi Medical Professional-C Serum 20% (1 fl. oz.)",
     "price":136,
     "rating":3,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/obagimedical.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/obagimedical.gif","quantity":1
 },
 {
     "id":14,
@@ -123,7 +129,7 @@
     "title":"Sunday Riley GOOD GENES All-In-One Lactic Acid Treatment (1.7oz. - $175 Value)",
     "price":122,
     "rating":5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/sundayriley.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/sundayriley.gif","quantity":1
 },{
     "id":15,
     "category":"skincare",
@@ -131,7 +137,7 @@
     "title":"Neocutis LUMIÈRE® FIRM RICHE Extra Moisturizing Illuminating Tightening Eye Cream (0.5 fl. oz.)",
     "price":118,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neocutis.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neocutis.gif","quantity":1
 }
     ]
     ,
@@ -143,7 +149,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13837544-2804976746712616.jpg",
     "price": 245,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nuface.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nuface.gif","quantity":1
 },
 {
     "id":17,
@@ -152,7 +158,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13761887-1754965608525076.jpg",
     "price": 449,
     "rating":3,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nuface.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nuface.gif","quantity":1
 },
 {
     "id":18,
@@ -161,7 +167,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/10437955-2124891241516529.jpg",
     "price": 45,
     "rating":3.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif","quantity":1
 },
 {
     "id":19,
@@ -170,7 +176,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902038-8134866432156213.jpg",
     "price": 18,
     "rating":4.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif","quantity":1
 },
 {
     "id":20,
@@ -179,7 +185,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901205-1854866655479438.jpg",
     "price": 8,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
 },
 {
     "id":21,
@@ -188,7 +194,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902996-5674871804745636.jpg",
     "price": 6,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif","quantity":1
 },
 {
     "id":22,
@@ -197,7 +203,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918939-1784869705298707.jpg",
     "price": 55,
     "rating":4.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif","quantity":1
 },
 {
     "id":23,
@@ -206,7 +212,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902995-1984872045503433.jpg",
     "price":18 ,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif","quantity":1
 },
 {
     "id":24,
@@ -215,7 +221,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901727-1044911666006498.jpg",
     "price": 69,
     "rating":2,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nursejamie.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nursejamie.gif","quantity":1
 },
 {
     "id":25,
@@ -224,7 +230,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13928073-2125002136164800.jpg",
     "price": 399,
     "rating":1,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nursejamie.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/nursejamie.gif","quantity":1
 },
 {
     "id":26,
@@ -233,7 +239,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11207490-1544866131146524.jpg",
     "price": 6,
     "rating":2,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dhc.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dhc.gif","quantity":1
 },
 {
     "id":27,
@@ -242,7 +248,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902999-2084871804909343.jpg",
     "price": 9,
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermstorecollection.gif","quantity":1
 },
 {
     "id":28,
@@ -251,7 +257,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12085488-2074866373661988.jpg",
     "price": 22,
     "rating":5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/beautyora.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/beautyora.gif","quantity":1
 },
 {
     "id":29,
@@ -260,7 +266,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288009-1904871816111295.jpg",
     "price": 3,
     "rating":3.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
 },
 {
     "id":30,
@@ -269,7 +275,7 @@
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12918920-2054866556682202.jpg",
     "price": 349,
     "rating":5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/harryjoshprotools.gif","quantity":1
 }
     ],
     "moisturizers":[
@@ -280,7 +286,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12328579-1684722259354674.jpg",
             "price":132,
             "rating":3,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif","quantity":1
         },
         {
             "id":32,
@@ -289,7 +295,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/10366589-2964891241118780.jpg",
             "price":165,
             "rating":3,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif","quantity":1
         },{
             "id":33,
             "category":"moisturizers",
@@ -297,7 +303,7 @@
             "url":"https://static.thcdn.com/images/large/webp/productimg/1600/1600/11151046-1604459954827207.jpg",
             "price":56,
             "rating":3.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/elemis.gif","quantity":1
         },
         {
             "id":35,
@@ -306,7 +312,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12538013-4764765050522444.jpg",
             "price":70,
             "rating":2,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/eltamd.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/eltamd.gif","quantity":1
         },
         {
             "id":34,
@@ -315,7 +321,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11312847-1234892768495982.jpg",
             "price":66,
             "rating":3.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinceuticals.gif","quantity":1
         },
         {
             "id":36,
@@ -324,7 +330,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12810684-1104840720634844.jpg",
             "price":74,
             "rating":4,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/medik8.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/medik8.gif","quantity":1
         },
         {
             "id":37,
@@ -333,7 +339,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12915668-1774973380782840.jpg",
             "price":52,
             "rating":4,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/tulaskincare.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/tulaskincare.gif","quantity":1
         },
         {
             "id":38,
@@ -342,7 +348,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11288913-2454871572381206.jpg",
             "price":74,
             "rating":4.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/obagimedical.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/obagimedical.gif","quantity":1
         },
         {
             "id":39,
@@ -351,7 +357,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901001-2174876994385429.jpg",
             "price":21,
             "rating":4,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/supergoop!.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/supergoop!.gif","quantity":1
         },
         {
             "id":40,
@@ -360,7 +366,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13663076-9344964551570770.jpg",
             "price":68,
             "rating":5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/drdennisgross.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/drdennisgross.gif","quantity":1
         },
         {
             "id":41,
@@ -369,7 +375,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/10921277-1664897219982373.jpg",
             "price":72,
             "rating":3,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/sundayriley.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/sundayriley.gif","quantity":1
         },
         {
             "id":42,
@@ -378,7 +384,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12008802-1784918467377259.jpg",
             "price":74,
             "rating":2,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermalogica.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/dermalogica.gif","quantity":1
         },
         {
             "id":43,
@@ -387,7 +393,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12701672-1314870996192467.jpg",
             "price":542,
             "rating":2.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinmedica.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/skinmedica.gif","quantity":1
         },
         {
             "id":44,
@@ -396,7 +402,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12902709-1504868371618332.jpg",
             "price":78,
             "rating":3.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revisionskincare.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revisionskincare.gif","quantity":1
         },
         {
             "id":45,
@@ -405,7 +411,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12956914-2104863698613843.jpg",
             "price":45,
             "rating":1.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/colorescience.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/colorescience.gif","quantity":1
         }
     ],
     "haircare":[
@@ -416,7 +422,7 @@
     "price":10,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927421-1874860660914313.jpg",
     "rating":5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif","quantity":1
 },
 {
     "id":47,
@@ -425,7 +431,7 @@
     "price":50,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11927426-2014713645552216.jpg",
     "rating":4.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif","quantity":1
 },
 {
     "id":48,
@@ -434,7 +440,7 @@
     "price":36,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13554653-1994928099528247.jpg",
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/seen.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/seen.gif","quantity":1
 },
 {
     "id":49,
@@ -443,7 +449,7 @@
     "price":295,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13950530-5714996682751306.jpg",
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif","quantity":1
 },
 {
     "id":50,
@@ -452,7 +458,7 @@
     "price":58,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12799765-5224912786695921.jpg",
     "rating":5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/growgorgeous.gif","quantity":1
 },
 {
     "id":51,
@@ -461,7 +467,7 @@
     "price":499,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13934558-1774985568711354.jpg",
     "rating":4.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ghd.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ghd.gif","quantity":1
 },
 {
     "id":52,
@@ -470,7 +476,7 @@
     "price":62,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13903619-1444998250558359.jpg",
     "rating":3.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif","quantity":1
 },
 {
     "id":53,
@@ -479,7 +485,7 @@
     "price":38.5,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12752678-8584894638466806.jpg",
     "rating":2.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/christopherobin.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/christopherobin.gif","quantity":1
 },
 {
     "id":54,
@@ -488,7 +494,7 @@
     "price":75,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13950527-2804996681680078.jpg",
     "rating":1.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif","quantity":1
 },
 {
     "id":55,
@@ -497,7 +503,7 @@
     "price":28,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13883317-8014988987514489.jpg",
     "rating":5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif","quantity":1
 },
 {
     "id":56,
@@ -506,7 +512,7 @@
     "price":115,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13953451-1954996682986923.jpg",
     "rating":4.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif","quantity":1
 },
 {
     "id":57,
@@ -515,7 +521,7 @@
     "price":229,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13934555-2044985568107109.jpg",
     "rating":4,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ghd.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ghd.gif","quantity":1
 },
 {
     "id":58,
@@ -524,7 +530,7 @@
     "price":90,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13457731-2014927768637931.jpg",
     "rating":3,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif","quantity":1
 },
 {
     "id":59,
@@ -533,7 +539,7 @@
     "price":99,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13903618-6054979846869767.jpg",
     "rating":2,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/olaplex.gif","quantity":1
 
 },{
     "id":60,
@@ -542,7 +548,7 @@
     "price":110,
     "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11289219-1964875380604594.jpg",
     "rating":4.5,
-    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/philipb.gif"
+    "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/philipb.gif","quantity":1
 }
     ]
     ,
@@ -554,7 +560,7 @@
         "title":"Perricone MD Instant Blur (0.35 oz.)",
         "price":55,
         "rating":3,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif","quantity":1
      }   ,
      {
         "id":62,
@@ -563,7 +569,7 @@
         "title":"Perricone MD No Makeup Blush (0.3 fl. oz.)",
         "price":35,
         "rating":3.5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif","quantity":1
      }   ,
      {
         "id":63,
@@ -572,7 +578,7 @@
         "title":"Perricone MD No Makeup Eyeshadow (0.3 fl. oz.)",
         "price":35,
         "rating":4,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/perriconemd.gif","quantity":1
 
      } ,
      {
@@ -582,7 +588,7 @@
         "title":"Chantecaille Just Skin Tinted Moisturizer Sunscreen Broad Spectrum SPF15 50g (Various Shades)",
         "price":80,
         "rating":4,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif","quantity":1
      }     ,
      {
         "id":65,
@@ -591,7 +597,7 @@
         "title":"jane iredale Glow Time Pro BB Cream 40ml (Various Shades)",
         "price":52,
         "rating":5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
      }   ,{
         "id":66,
         "category":"makeup",
@@ -599,7 +605,7 @@
         "title":"EltaMD UV Elements Tinted Broad-Spectrum SPF 44 (2 oz.)",
         "price":38.50,
         "rating":2,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/eltamd.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/eltamd.gif","quantity":1
      }   ,{
         "id":67,
         "category":"makeup",
@@ -607,7 +613,7 @@
         "title":"Chantecaille Future Skin Oil-Free Foundation 30g",
         "price":82,
         "rating":2.5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif","quantity":1
      }   ,{
         "id":68,
         "category":"makeup",
@@ -615,7 +621,7 @@
         "title":"Chantecaille Lip Tint Hydrating Balm (Various Shades)",
         "price":34,
         "rating":3,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif","quantity":1
      }   ,{
         "id":69,
         "category":"makeup",
@@ -623,7 +629,7 @@
         "title":"jane iredale Pure Pressed Blush 3.7g (Various Shades)",
         "price":32,
         "rating":1.5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
      }   ,{
         "id":70,
         "category":"makeup",
@@ -631,7 +637,7 @@
         "title":"ILIA Limitless Lash Mascara (Various Sizes)",
         "price":13,
         "rating":3,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ilia.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ilia.gif","quantity":1
      }   ,{
         "id":71,
         "category":"makeup",
@@ -639,7 +645,7 @@
         "title":"Chantecaille Le Camouflage Stylo Concealer",
         "price":56,
         "rating":3.5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/chantecaille.gif","quantity":1
      },{
         "id":72,
         "category":"makeup",
@@ -647,7 +653,7 @@
         "title":"jane iredale Smooth Affair Brightening Face Primer (1.7 fl. oz.)",
         "price":50,
         "rating":4.5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
      },{
         "id":73,
         "category":"makeup",
@@ -655,7 +661,7 @@
         "title":"RevitaLash Advanced Eyelash Conditioner - 3 Month Supply (0.067 fl. oz.)",
         "price":98,
         "rating":3,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revitalash.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revitalash.gif","quantity":1
      },{
         "id":74,
         "category":"makeup",
@@ -663,7 +669,7 @@
         "title":"RÓEN Disco Eye (Worth $29.00)",
         "price":28,
         "rating":5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revitalash.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/revitalash.gif","quantity":1
 
      },{
         "id":75,
@@ -672,7 +678,7 @@
         "title":"jane iredale Just Kissed Lip and Cheek Stain (0.1 oz.)",
         "price":32,
         "rating":2.5,
-        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+        "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
      }
     ],
     "fragrance":[
@@ -683,7 +689,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12691029-3674813757407983.jpg",
             "price":58,
             "rating":4,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
 
         },{
             "id":77,
@@ -692,7 +698,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13803616-1444954936799040.jpg",
             "price":175,
             "rating":4,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/janeiredale.gif","quantity":1
 
         },{
             "id":85,
@@ -701,7 +707,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/11667113-2834897170225306.jpg",
             "price":240,
             "rating":4.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/trudon.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/trudon.gif","quantity":1
         },{
             "id":78,
             "category":"fragrance",
@@ -709,7 +715,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13900443-1054973180227191.jpg",
             "price":29,
             "rating":4.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/glossmoderne.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/glossmoderne.gif","quantity":1
         },
         {
             "id":79,
@@ -718,7 +724,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12741210-4494985797445031.jpg",
             "price":120,
             "rating":3,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/hermetica.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/hermetica.gif","quantity":1
         },{
             "id":80,
             "category":"fragrance",
@@ -726,7 +732,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12778529-1624832946156936.jpg",
             "price":240,
             "rating":3,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/trudon.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/trudon.gif","quantity":1
         },{
             "id":81,
             "category":"fragrance",
@@ -734,7 +740,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13051097-8144910945264757.jpg",
             "price":45,
             "rating":3.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/glasshousefragrances.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/glasshousefragrances.gif","quantity":1
         },{
             "id":82,
             "category":"fragrance",
@@ -742,7 +748,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12545077-6354891967728311.jpg",
             "price":35,
             "rating":3.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/soldejaneiro.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/soldejaneiro.gif","quantity":1
         },{
             "id":83,
             "category":"fragrance",
@@ -750,7 +756,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12455612-7254928010689700.jpg",
             "price":13,
             "rating":2,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neom.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/neom.gif","quantity":1
         },{
             "id":84,
             "category":"fragrance",
@@ -758,7 +764,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/12901665-3824896468202044.jpg",
             "price":79,
             "rating":2,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/kai.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/kai.gif","quantity":1
         },{
             "id":86,
             "category":"fragrance",
@@ -766,7 +772,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13257298-1144988163597126.jpg",
             "price":34,
             "rating":2,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif","quantity":1
         },{
             "id":87,
             "category":"fragrance",
@@ -774,7 +780,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13798743-2044952866136634.jpg",
             "price":78,
             "rating":2.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif","quantity":1
         },{
             "id":88,
             "category":"fragrance",
@@ -782,7 +788,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13257297-9715002685919792.jpg",
             "price":125,
             "rating":1,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/oribe.gif","quantity":1
         },{
             "id":89,
             "category":"fragrance",
@@ -790,7 +796,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13347876-2084898463080388.jpg",
             "price":95,
             "rating":4.5,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/thenueco.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/thenueco.gif","quantity":1
         },{
             "id":90,
             "category":"fragrance",
@@ -798,7 +804,7 @@
             "url":"https://static.thcdn.com/images/large/webp//productimg/1600/1600/13809370-1864957053960501.jpg",
             "price":105,
             "rating":3,
-            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ellisbrooklyn.gif"
+            "icon":"https://static.thcdn.com/design-assets/images/logos/shared-brands/colour/ellisbrooklyn.gif","quantity":1
         }
 
     ]}

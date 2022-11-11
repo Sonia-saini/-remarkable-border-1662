@@ -1,14 +1,20 @@
 import {  Image,Box, Button } from "@chakra-ui/react";
+import { useContext } from "react";
+import { addtocart } from "../context/cartaction";
+import { AppContext } from "../context/contexted";
 
 
-export default function Product({url,price,rating,title}){
-   
+export default function Product({props}){
+  const {url,price,rating,title}=props
+ 
+  
+   const {state,dispatch}=useContext(AppContext);
     let arr=[];
     for(let i=0;i<rating;i++){
         arr.push(i+1)
     }
 
-    
+    console.log(state)
       return (
         <Box maxW="sm" borderWidth="1px" borderRadius="lg" overflow="hidden">
           <Image src={url} alt={""} />
@@ -46,7 +52,7 @@ export default function Product({url,price,rating,title}){
               
               
             </Box>
-            <Button>QUICK BUY</Button>
+            <Button onClick={()=>dispatch(addtocart(props))}>QUICK BUY</Button>
           </Box>
         </Box>
       );

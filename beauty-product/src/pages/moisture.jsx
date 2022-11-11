@@ -23,7 +23,7 @@ export default function Moisturizers(){
             </div>
             <div className="moisture">
 {
-    data&&data.map((el)=><Product {...el}/>)
+    data&&data.map((el)=><Product props={el}/>)
 }</div>
             <Footer/>
         </div>

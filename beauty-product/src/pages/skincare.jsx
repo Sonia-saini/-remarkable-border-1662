@@ -23,7 +23,7 @@ export default function Skincare(){
             </div>
             <div className="skincare">
 {
-    data&&data.map((el)=><Product {...el}/>)
+    data&&data.map((el)=><Product props={el}/>)
 }</div>
             <Footer/>
         </div>

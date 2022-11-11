@@ -20,7 +20,7 @@ export default function Toolss(){
             </div>
             <div className="tool">
 {
-    data&&data.map((el)=><Product {...el}/>)
+    data&&data.map((el)=><Product  props={el}/>)
 }</div>
             <Footer/>
         </div>

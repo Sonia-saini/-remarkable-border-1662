@@ -20,7 +20,7 @@ export default function Haircare(){
             </div>
             <div className="haircare">
 {
-    data&&data.map((el)=><Product {...el}/>)
+    data&&data.map((el)=><Product props={el}/>)
 }</div>
             <Footer/>
         </div>
