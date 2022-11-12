@@ -5,7 +5,7 @@ import "../App.css"
 export default function Moisturizers(){
     const [data,setData]=useState();
     const Append=()=>{
-        fetch(`http://localhost:8000/products`).then((res)=>
+        fetch(`https://shines-node-deploy.onrender.com/products`).then((res)=>
              res.json()
         ).then((res)=>(
             setData(res.moisturizers)

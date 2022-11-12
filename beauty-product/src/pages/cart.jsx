@@ -99,7 +99,7 @@ amount(price)
 <br></br>
 <Button>TOTAL PAYBLE AMOUNT AFTER 10% DISCOUNT  {price}</Button><br></br>
 <br></br>
-<Link to="/payment"><Button>CHECKOUT</Button></Link>
+<Link to="/checkout"><Button>PROCEED TO BUY</Button></Link>
             <Footer/>
         </div>
     )
