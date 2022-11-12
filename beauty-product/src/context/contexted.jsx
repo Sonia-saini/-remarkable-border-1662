@@ -16,7 +16,7 @@ export default function Appcontextprovider({children}){
     }
     const submit=()=>{
         setLoad(true)
-        fetch(`http://localhost:8000/products`).then((res)=>res.json())
+        fetch(`https://shines-node-deploy.onrender.com/products`).then((res)=>res.json())
         .then((res)=>(setSearchdata(res[input]), 
         setLoad(false),setError(false))
         .catch((err)=>(setError(true),setLoad(false)))

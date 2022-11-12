@@ -3,12 +3,15 @@ import {Button,Input,Image} from "@chakra-ui/react"
 import { useContext } from "react"
 import { Link } from "react-router-dom"
 import { AppContext } from "../context/contexted"
+import { loginContext } from "../context/logincontext";
 export default function Navbar(){
     const {input,search,submit,state}=useContext(AppContext);
+    const {states,userout}=useContext(loginContext)
+    console.log(states.isAuth)
     return (
         
         <div style={{border:"1px solid gray"}}>
-            <div style={{display:"flex" ,gap:"120px",marginTop:"50px",marginLeft:"50px"}}>
+            <div style={{display:"flex" ,gap:"100px",marginTop:"50px",marginLeft:"50px"}}>
         <div style={{display:"flex",gap:"10px"}}>
     <Link to="/">    <Image src={`https://i.ibb.co/GHH8pvD/beautapp-1.png`} alt="" width="100px" height="100px" style={{borderRadius:"40%",marginTop:"-28px"}}/><h1 style={{fontFamily:"fantasy"}}>SHINE CONFIDENTLY</h1></Link>
         </div> 
@@ -21,8 +24,9 @@ export default function Navbar(){
                     <div style={{display:"flex",gap:"90px"}}>
 <div style={{display:"flex",gap:"10px"}}>
     <Image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR8e1XkIN5Pa8yiLlgHusqgqpfL2WCXLO6XA&usqp=CAU" width={"30px"} height="30px"/>
-    <h1>ACCOUNT</h1></div>
- <Link to="/login">   <Button>LOGIN</Button></Link>
+    <h1>{states.isAuth?states.data.name:"ACCOUNT"}</h1></div>
+ {states.isAuth?<Button onClick={userout}>LOGOUT</Button>:
+    <Link to="/login">   <Button>LOGIN</Button></Link>}
   <Link to="/cart"> <div style={{display:"flex",gap:"10px"}}> <Image src="https://w1.pngwing.com/pngs/720/451/png-transparent-shopping-cart-icon-shopping-bag-tote-bag-icon-design-online-shopping-black-and-white-area-rectangle.png" width={"20px"} height="20px"/>
   <h1 style={{backgroundColor:"black",color:"white",borderRadius:"50%",height:"20px", width:"20px",fontSize:"12px",marginTop:"-10px",marginLeft:"-17px"}}>{state.length}</h1>
 <h1>CART</h1></div></Link>

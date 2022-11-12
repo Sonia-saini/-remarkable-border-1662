@@ -10,6 +10,8 @@ import Skincare from "../pages/skincare";
 import Toolss from "../pages/tools";
 import {Home} from "./home"
 import Login from "../routes/login"
+import Private from "../pages/private";
+import Checkout from "../pages/checkout";
 export default function Allroutes(){
     return (
         <>
@@ -18,16 +20,16 @@ export default function Allroutes(){
           
           
             <Route path="/login" element={<Login/>}></Route>
-            <Route path="/skincare" element={<Skincare/>}></Route>
-<Route path="/haircare" element={<Haircare/>}></Route>
-<Route path="/makeup" element={<Makeup/>}></Route>
-<Route path="/toolsanddevices" element={<Toolss/>}></Route>
-<Route path="/moisturizers" element={<Moisturizers/>}>
-    </Route>
-    <Route path="/fragrance" element={<Fragrance/>}></Route>
-    <Route path="/cart" element={<Cart/>}></Route>
-        <Route path="/payment" element={<Payment/>}></Route>
-        <Route path="signup" element={<Signup/>}></Route>
+            <Route path="/skincare" element={<Private><Skincare/></Private>}></Route>
+<Route path="/haircare" element={<Private><Haircare/></Private>}></Route>
+<Route path="/makeup" element={<Private><Makeup/></Private>}></Route>
+<Route path="/toolsanddevices" element={<Private><Toolss/></Private>}></Route>
+<Route path="/moisturizers" element={<Private><Moisturizers/></Private>}></Route>
+   
+    <Route path="/fragrance" element={<Private><Fragrance/></Private>}></Route>
+    <Route path="/cart" element={<Private><Cart/></Private>}></Route>
+        <Route path="/payment" element={<Private><Payment/></Private>}></Route>
+        <Route path="checkout" element={<Private><Checkout/></Private>}></Route>
         </Routes>
         </>
     )

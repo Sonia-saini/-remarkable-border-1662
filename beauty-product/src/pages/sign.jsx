@@ -1,11 +1,15 @@
 import { Button } from "@chakra-ui/react"
+import { useContext } from "react"
 import "../App.css"
+import { SignContext } from "../context/signupcontext"
 export default function Signup(){
+    const {handlesign,userSign,user,stated}=useContext(SignContext)
+    console.log(user,stated)
     return (
         <div>
             
             
-            <div id="create" style={{height:"700px",marginTop:"400px"}}>
+            <div id="create" style={{height:"auto",marginTop:"100px"}}>
        <b> <h2 style={{marginLeft:"60px",width:"300px"}}>CREATE NEW ACCOUNT</h2></b>
         <form id="form">
             <div id="top">
@@ -15,13 +19,15 @@ export default function Signup(){
             <div id="inside" >
                 <div id="left">
                     <div class="details">
-                        <input id="email" type="email" placeholder="E-MAIL" required className="input"/><br/>
-                        <input id="password" type="password" placeholder="PASSWORD" required className="input"/><br/>
-                        <input id="name" type="text" placeholder="NAME" required className="input"/><br/>
-                        <input id="address" type="text" placeholder="ADDRESS" required className="input"/><br/>
-                        <input id="locality" type="text" placeholder="LOCALITY" required className="input"/><br/>
-                        <select name="STATE" id="state" required>
-                            <option value="">STATE</option>
+                        <input id="email" type="email" placeholder="E-MAIL" required className="input" name="email" onChange={handlesign}/><br/>
+                        <input id="password" type="password" placeholder="PASSWORD" required className="input" name="password" onChange={handlesign}/><br/>
+                        <input id="name" type="text" placeholder="NAME" required className="input" name="name" onChange={handlesign}/><br/>
+                        <input id="address" type="text" placeholder="ADDRESS" required className="input" name="address" onChange={handlesign}/><br/>
+                        <input id="locality" type="text" placeholder="LOCALITY" required className="input" name="locality" onChange={handlesign}/><br/>
+                        <br></br>
+                        
+                        <select name="state" onChange={handlesign} required>
+                            <option value="">---selelct state---</option>
                             <option value="andaman and nicobar island">ANDAMAN AND NICOBAR ISLAND</option>
                             <option value="Andhra Pradesh">ANDHRA PRADESH</option>
                             <option value="Arunachal Pradesh">ARUNACHAL PRADESH</option>
@@ -52,22 +58,24 @@ export default function Signup(){
                             <option value="Uttarakhand">UTTARAKHAND</option>
                             <option value="West Bengal">WEST BENGAL</option>
                         </select>
-                        <input id="phone" type="number" placeholder="TELEPHONE" required className="input"/><br/>
+                        
+                        <input id="phone" type="number" placeholder="TELEPHONE" required className="input" name="phone" onChange={handlesign}/><br/>
                     </div>
                 </div>
                 <div id="right">
                     <div class="details">
-                        <input id="re-password" type="password" placeholder="REPEAT PASSWORD" required className="input"/>
-                        <input id="pincode" type="number" placeholder="PINCODE" required className="input"/>
-                        <input id="info" type="text" placeholder="MORE INFO (Optional)" className="input"/>
-                        <input id="city" type="text" placeholder="CITY" required className="input"/>
+                        <input id="re-password" type="password" placeholder="REPEAT PASSWORD" required className="input" name="repassword" onChange={handlesign}/>
+                        <input id="pincode" type="number" placeholder="PINCODE" required className="input" name="pincode" onChange={handlesign}/>
+                        <input id="info" type="text" placeholder="MORE INFO (Optional)" className="input" />
+                        <input id="city" type="text" placeholder="CITY" required className="input" name="city" onChange={handlesign}/>
                     </div>
                 </div>
             </div>
-            <p class="privacy"><input type="checkbox" name="reciv" required />I WISH TO RECIEVE ZARA NEWS ON MY E-MAIL</p>
-            <p class="privacy"><input type="checkbox" name="accept" required />I ACCEPT THE</p>
+            <br></br>
+            <p class="privacy"><input type="checkbox" name="reciv" required checked={user.reciv} onChange={handlesign}/>  I WISH TO RECIEVE SHINE CONFIDENTLY NEWS ON MY E-MAIL</p>
+            <p class="privacy"><input type="checkbox" name="accept" required  checked={user.accept}onChange={handlesign}/>  I ACCEPT THE TERM AND CONDITION</p>
             <div id="er"></div>
-            <Button width={"80px"}bgColor="black" color="white" margin={"auto"}>SIGNUP</Button>
+            <Button width={"80px"}bgColor="black" color="white" margin={"auto"} onClick={userSign}>SIGNUP</Button>
         </form>
     </div>
         </div>

@@ -161,7 +161,7 @@ export  function Home(){
   const {searchdata,error,load,input}=useContext(AppContext)
 
     const Append=()=>{
-fetch(`http://localhost:8000/products`).then((res)=>
+fetch(`https://shines-node-deploy.onrender.com/products`).then((res)=>
      res.json()
 ).then((res)=>(
     setData(res.makeup)

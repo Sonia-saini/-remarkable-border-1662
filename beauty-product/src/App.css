@@ -241,11 +241,12 @@ button:hover {
 #create {
   width: 65%;
   margin-left: 7%;
-  margin-top: 150px;
+  
+  
 }
 #inside {
   display: grid;
-  grid-template-columns: repeat(2,1fr);
+  grid-template-columns: repeat(1,1fr);
   width: 100%;
   gap: 7%;
   align-items: center;
