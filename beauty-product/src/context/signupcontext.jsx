@@ -23,6 +23,8 @@ alert ("please accept privicy or terms and condition")
 else{
     alert ("Congratulation you are successfully create account")
     dispatch(signuped(user))
+    setUser({name:"",email:"",password:"",state:"",city:"",reciv:false,accept:false,pincode:"",phone:"",
+    address:"",locality:"",repassword:""})
 }
 
     }

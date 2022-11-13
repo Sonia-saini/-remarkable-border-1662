@@ -21,7 +21,7 @@ export default function Appcontextprovider({children}){
         setLoad(false),setError(false))
         .catch((err)=>(setError(true),setLoad(false)))
        )
-       
+     setInput("")  
     }
     const amount=(x)=>{
 setTotal(x)

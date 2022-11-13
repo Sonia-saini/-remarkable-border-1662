@@ -19,6 +19,7 @@ export default function Payment(){
         else if(method===""||cardno===""||cvv===""||month===""||year===""||name===""){
             alert("Please fill all card details")
         }
+        setDetail({method:"",cardno:"",cvv:"",month:"",year:"",name:""})
 
     }
     const handlepay=(e)=>{
@@ -26,7 +27,7 @@ export default function Payment(){
         setDetail({...detail,[name]:value})
     }
     const nav=()=>{
-        <Navigate to="/"/>
+       return <Navigate to="/"/>
     }
     const confirm=()=>{
         dispatch(checkouted())
@@ -35,6 +36,8 @@ export default function Payment(){
         alert("ORDER IS CONFIRM YOU WILL GET IT WITHIN 78 HOURS")
         nav()
     }
+  
+    
     return (
         <div>
             <Alert status='error'>
@@ -46,11 +49,11 @@ export default function Payment(){
     <div id="cont">
         <div style={{display:"flex",gap:"50px"}}>
 
-            <select id="method"  name="method" onChange={handlepay}> <option value="" >---select payment method---</option>
+            <select id="method" value={method} name="method" onChange={handlepay}> <option value="" >---select payment method---</option>
                 <option value="credit card">CREDIT CARD</option>
            
             <option value="debit card" >DEBIT CARD</option></select></div>
-        <input type="password" placeholder="CARD NUMBER" id="card" value={detail.cardno} name="cardno"onChange={handlepay}/>
+        <input type="password" placeholder="CARD NUMBER" id="card"  value={cardno} name="cardno"onChange={handlepay}/>
         <select id="month" value={detail.month} name="month" onChange={handlepay}>
             <option value="">MONTH</option>
             <option value="1">01</option>
@@ -66,7 +69,7 @@ export default function Payment(){
             <option value="11">11</option>
             <option value="12">12</option>
         </select>
-        <select id="year" value={detail.year} name="year" onChange={handlepay}>
+        <select id="year" value={year} name="year" onChange={handlepay}>
             <option value="">YEAR</option>
             <option value="12">2020</option>
             <option value="13">2021</option>
@@ -81,8 +84,8 @@ export default function Payment(){
             <option value="22">2030</option>
             <option value="23">2031</option>
         </select>
-        <input type="text" placeholder="CARD HOLDER" id="name" value={detail.name} name="name" onChange={handlepay}/>
-        <input type="password" placeholder="CVV2 SECURITY CODE" id="cvvNo" value={detail.cvv} name="cvv" onChange={handlepay}/>
+        <input type="text" placeholder="CARD HOLDER" id="name" value={name} name="name" onChange={handlepay}/>
+        <input type="password" placeholder="CVV2 SECURITY CODE" id="cvvNo" value={cvv} name="cvv" onChange={handlepay}/>
        
 
         {total===0?"":<div style={{display:"flex",gap:"100px"}}><b>TOTAL PAYABLE AMOUNT</b><Button>{total}</Button></div>}
