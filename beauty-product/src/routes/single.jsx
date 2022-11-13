@@ -7,7 +7,7 @@ export default function Single({url,price,rating,title}){
     for(let i=0;i<rating;i++){
         arr.push(i+1)
     }
-
+// asdfdfs
     
       return (
         <Box maxW="sm" borderWidth="1px" borderRadius="lg" overflow="hidden">
