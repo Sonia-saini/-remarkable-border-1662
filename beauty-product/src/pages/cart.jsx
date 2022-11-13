@@ -75,7 +75,7 @@ amount(price)
 
             </Td>
             <Td>${el.quantity*el.price}.00</Td>
-            <Td><Button onClick={()=>dispatch(removed(el.id))}>Remove</Button></Td>
+            <Td>{<Button onClick={()=>(dispatch(removed(el.id)))}>Remove</Button>}</Td>
 
         </Tr>))
     }
