@@ -172,7 +172,7 @@ fetch(`https://shines-node-deploy.onrender.com/products`).then((res)=>
     return (
         
         <>
-    <div className="search">  {load?<Stack>
+    <div className="search">  {load?<Stack style={{width:"1400px",margin:"auto",marginLeft:"-20px"}}>
   <Skeleton height='20px' width={"90%"}/>
   <Skeleton height='20px' width={"90%"}/>
   <Skeleton height='20px' width={"90%"}/>
@@ -187,11 +187,11 @@ fetch(`https://shines-node-deploy.onrender.com/products`).then((res)=>
   <Skeleton height='20px' width={"90%"}/> <Skeleton height='20px' width={"90%"}/>
   <Skeleton height='20px' width={"90%"}/>
   <Skeleton height='20px' width={"90%"}/>
-</Stack>:load==false&&error?<Alert status='error'>
+</Stack>:error?<Alert status='error'>
   <AlertIcon />
   <AlertTitle>Something went wrong!</AlertTitle>
   <AlertDescription>please try again after sometime.</AlertDescription>
-</Alert>:input!==""&&searchdata.length!==0?
+</Alert>:searchdata.length!==0?
   searchdata.map((el)=><Single {...el}/>):input!==""?<Alert status='error'>
   <AlertIcon />
   <AlertTitle>Your searching product is not available!</AlertTitle>
